@@ -1,7 +1,7 @@
 # Sequential-Learning-for-AAB-discovery with Matlab
 
 ## Description and requirements
-This script runs Sequential Learning (SL) algorithms for materials discovery. To execute simply download all files in the same file directory and execute with matlab. This script has been created on Matlab Version: 9.9.0.1592791 (R2020b) Update 5. It requires the Statistics and Machine Learning Toolbox (Version 12.0). Older versions may be supported. 
+This script runs Sequential Learning (SL) algorithms for materials discovery. To execute simply download all files in the same file directory and execute 'SL_script.m' with matlab. This script has been created on Matlab Version: 9.9.0.1592791 (R2020b) Update 5. It requires the Statistics and Machine Learning Toolbox (Version 12.0). Older versions may be supported. 
 
 ## Purpose
 The purpose of this code is to make the results described in the work entitled "Sequential learning to accelerate discovery of alkali-activated binders" reproducible. Therefore, the underlying data is provided, too (AAC_data_Publish.xlsx). The script can be applied to other datasets if the data import is adjusted accordingly. 
